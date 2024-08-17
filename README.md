@@ -1,5 +1,44 @@
 # Supermarket-Sales-Analysis
+
 ## Introduction
-Every business owner wants their business to thrive. And every business is as good as the profit it makes which most times defines the success of the business.  So, in the business world, every profitable business will always stay ahead despite the challenges or stiff competition from others. This analysis delves into the financial capability of a supermarket general sales performances with emphasis on its profitability with the aim of understanding challenges faced by the organization and provide relative solutions to it; considering some metrics like customer type and satisfaction, business locations, total sales, quantity and product category.
-![](https://github.com/ARINZE-05/Supermarket-Sales-Analysis/blob/main/a%20person.jpg)
+Every business owner wants their business to thrive. And every business is as good as the profit it makes which most times defines the success of the business.  So, in the business world, every profitable business will always stay ahead despite the challenges or stiff competition from others. This analysis delves into the financial capability of a supermarket general sales performances, despite making sales, they don't generate profits. Emphasis on its profitability with the aim of understanding challenges faced by this organization and provide relative solutions to it; considering some metrics like customer type and satisfaction, business locations, total sales, quantity and product category.
+
+## Data Description
+This dataset was provided by The Data Initiative.It is a supermarket sales data that gives a general overview of the company's sales performance.The dataset includes the following:
+- Invoice ID: Sales slip invoice identification number.
+- Branch: Branch of supercenters where transactions occured(A, B and C).
+- City: Location of supercenters(Yangon, Naypitaw, Mandalay).
+- Customer Type: Customers with member card(1) and customers without member card(0).
+- Gender: Gender of customers( Male and Female).
+- Product Category: General product category(Electronic accessories, Fashion accessories, Food and Beverages, Health and Beauty, Home and Lifestyle, Sports and Travel)
+- Unit Price: Per unit cost of product.
+- Quantity: Number of products purchased.
+- Tax: 5% of customer's purchase.
+- Total: Total sales of products including Tax.
+- Date: Date of purchase(January 2019 - March 2019).
+- Time: Purchase time(10am - 9pm).
+- Payment: Payment method used by customers for purchase(Cash, Credit card, Ewallet).
+- COGS: Cost Of Goods Sold.
+- Gross Margin Percentage: Gross Margin Percentage.
+- Gross Income: Gross Income.
+- Rating: Customer satisfaction rating with overall shopping experience.
+
+  ## The dataset KPIs/Statistics
+  - Total Sales: $322,967
+  - Total Gross Income: $55,672
+  - Total COGS: $307,587
+  - Total Quantity: 5,510 Items
+  - Total Cost Price: $55,672
+  - Count Of Unique Customers: 1000
+  - Count Of Product Category: 6
+  - Count Of City: 3
+
+  ## Methodology
+  
+  ### Data Collection
+  This dataset used for this analysis was provided by The Data Initiative. This is a learning organization that helps educate and train data analysts. This analysis is for educational and learning purpose.
+
+  ### Data Manipulation
+     
+
 
