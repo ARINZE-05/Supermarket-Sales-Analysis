@@ -71,7 +71,7 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
     
   ![](doc4.PNG)
   ### Total Sales
-  - 
+  This seeks to provide detailed analysis on sales within the 3 months period and across various cities.     
   
   
   
