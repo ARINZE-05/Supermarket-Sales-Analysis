@@ -48,7 +48,10 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
      “M” with Male.
    - The Customer Type column had numbers 1 and 0. Using Find & Replace Function, I replaced “1” with Members and “0” with Normal.
    - I applied Currency Formatting to some of the numbers that denotes monetary value.
-   - I checked for Duplicates and there was none. Took a deep breathe because my data is now clean and ready for analysis. 
+   - I checked for Duplicates and there was none. Took a deep breathe because my data is now clean and ready for analysis.
+
+  ### Tool Used
+  The software used for this analysis is Microsoft Excel [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
     
      
 
