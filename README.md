@@ -77,7 +77,7 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   - January was a successful month in terms of sales. Sales were at its peak with $110,754. Then it started dwindling in February selling a total of $92,590 and consistently rising in 
  the month of March selling at $104,243. They had a Gross income of $5,538, $4,629 and $5,212 respectively. Despite huge sales made, their gross income is slightly the same across 
  different months.
-  -  
+  - Naypyitaw 
   
   
   
