@@ -65,6 +65,7 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
     you to know that to some customers, the use of credit card for shopping isn’t their strongest suit.
   - Gender purchasing affected their sales. Female customers purchased more items than the male customers. Food and Beverages was the highest selling product as it is an essential. The 
     female customers being the biggest patronizer of this commodity and the male customers settled for Electronic and accessories.
+    
   ![](doc3.PNG)     
   
     
