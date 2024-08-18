@@ -24,14 +24,14 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
 - Rating: Customer satisfaction rating with overall shopping experience.
 
   ## The dataset KPIs/Statistics
-  - Total Sales: $322,967
-  - Total Gross Income: $55,672
-  - Total COGS: $307,587
-  - Total Quantity: 5,510 Items
-  - Total Cost Price: $55,672
-  - Count Of Unique Customers: 1000
-  - Count Of Product Category: 6
-  - Count Of City: 3
+- Total Sales: $322,967
+- Total Gross Income: $55,672
+- Total COGS: $307,587
+- Total Quantity: 5,510 Items
+- Total Cost Price: $55,672
+- Count Of Unique Customers: 1000
+- Count Of Product Category: 6
+- Count Of City: 3
 
   ## Methodology
   
