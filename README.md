@@ -57,7 +57,9 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   ![](Dashboard.PNG)
 
   ## Data Analysis
-  
+  ### Customer Insight
+  This research tries to understand customer purchasing pattern and demographics. It ehance product marketing and distribution.
+    
   
     
      
