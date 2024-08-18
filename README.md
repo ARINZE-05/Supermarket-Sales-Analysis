@@ -39,6 +39,15 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   This dataset used for this analysis was provided by The Data Initiative. This is a learning organization that helps educate and train data analysts. This analysis is for educational and learning purpose.
 
   ### Data Manipulation
+  #### Data cleaning and Data formatting
+- The dataset didn’t take much time to clean as the errors is very minimal. Firstly, I turned the dataset into a Table using “Ctrl + T”. 
+  From the Table Design ribbon, I chose a favorable Table Style.
+- The Gender column had its items abbreviated. It had “FM” and “M”. Using the Find & Replace Function, I replaced “FM” with Female and 
+  “M” with Male.
+- The Customer Type column had numbers 1 and 0. Using Find & Replace Function, I replaced “1” with Members and “0” with Normal. I 
+  applied Currency Formatting to some of the numbers that denotes monetary value.
+- I checked for Duplicates and there was none. Took a deep breathe because my data is now clean and ready for analysis. 
+  
      
 
 
