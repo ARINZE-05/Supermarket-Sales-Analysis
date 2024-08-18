@@ -70,6 +70,8 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   - Member customers and Normal customers made the highest purchased of product like Food and Beverages. We also discovered that Normal customers are more in number than Member customer.
     
   ![](doc4.PNG)
+  ### Total Sales
+  - 
   
   
   
