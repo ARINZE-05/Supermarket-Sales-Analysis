@@ -70,9 +70,13 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   - Member customers and Normal customers made the highest purchased of product like Food and Beverages. We also discovered that Normal customers are more in number than Member customer.
     
   ![](doc4.PNG)
-  ### Total Sales
+  ## Total Sales
   This seeks to provide detailed analysis on sales within the 3 months period and across various cities.
-  ![](doc5.PNG)   
+  ![](doc5.PNG)
+  ### Insight
+  - January was a successful month in terms of sales. Sales were at its peak with $110,754. Then it started dwindling in February selling a total of $92,590 and consistently rising in 
+ the month of March selling at $104,243. They had a Gross income of $5,538, $4,629 and $5,212 respectively. Despite huge sales made, their gross income is slightly the same across 
+ different months.    
   
   
   
