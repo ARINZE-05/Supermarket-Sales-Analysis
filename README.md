@@ -60,6 +60,13 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   ### Customer Insight
   This research tries to understand customer purchasing pattern and demographics. It ehance product marketing and distribution.
   ![](doc1.PNG)
+  ### Insight
+  - Mode of payment was highly considered as it influence customer purchasing ability. Ewallet was the most used mode of payment and Credit card was the least used. This may interest 
+    you to know that to some customers, the use of credit card for shopping isn’t their strongest suit.
+  - Gender purchasing affected their sales. Female customers purchased more items than the male customers. Food and Beverages was the highest selling product as it is an essential. The 
+    female customers being the biggest patronizer of this commodity and the male customers settled for Electronic and accessories.
+       
+  
     
   
     
