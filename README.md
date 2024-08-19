@@ -61,8 +61,8 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   This research tries to understand customer purchasing pattern and demographics. It ehance product marketing and distribution.
   ![](doc1.PNG)
   ### Insight
-  - Mode of payment was highly considered as it influence customer purchasing ability. Ewallet was the most used mode of payment and Credit card was the least used. This may interest 
-    you to know that to some customers, the use of credit card for shopping isn’t their strongest suit.
+  - Mode of payment was highly considered as it influence customer purchasing ability. Ewallet was the most used mode of payment and Credit card was the least used. Showing how digital 
+    mode of payment is getting popular among people.  This may interest you to know that to some customers, the use of credit card for shopping isn’t their strongest suit.
   - Gender purchasing affected their sales. Female customers purchased more items than the male customers. Food and Beverages was the highest selling product as it is an essential. The 
     female customers being the biggest patronizer of this commodity and the male customers settled for Electronic and accessories.
   - Member customers and Normal customers made the highest purchased of product like Food and Beverages. We also discovered that Normal customers are more in number than Member customer.
@@ -80,7 +80,9 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   - Yangon is the second city with the most sales at $106,200 selling 1,859 unit of products. This shows high sales volume with adequate customer engagement. Having sold more unit of 
   products than Naypyitaw yet couldn't make more sales clearly shows they sold more low-priced products.
   - Mandalay follows closely to Yangon and being the lowest selling city with $106,198 selling 1,820 unit of products. This indicate consistent customer satisfaction and huge buying 
-  strength.     
+  strength.
+  ### Customer satisfaction
+  -    
   
   
   
