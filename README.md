@@ -77,7 +77,12 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   - January was a successful month in terms of sales. Sales were at its peak with $110,754. Then it started dwindling in February selling a total of $92,590 and consistently rising in 
  the month of March selling at $104,243. They had a Gross income of $5,538, $4,629 and $5,212 respectively. Despite huge sales made, their gross income is slightly the same across 
  different months.
-  - Naypyitaw 
+  - Naypyitaw is the city with the most sales at $110,569 selling 1,831 unit of products. This implies that they prioritised selling high-priced products than any others and set good 
+  pricing control measures. 
+  - Yangon is the second city with the most sales at $106,200 selling 1,859 unit of products. This shows high sales volume with adequate customer engagement. Having sold more unit of 
+  products than Naypyitaw yet couldn't make more sales clearly shows they sold more low-priced products.
+  - Mandalay follows closely to Yangon and being the lowest selling city with $106,198 selling 1,820 unit of products. This indicate consistent customer satisfaction and huge buying 
+  strength.     
   
   
   
