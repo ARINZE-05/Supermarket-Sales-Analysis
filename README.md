@@ -83,6 +83,7 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   strength.
   ### Customer satisfaction
   This analysis indicates how customer interest and satisfaction affect the general sales performance.
+  ![](doc5.PNG)
       
   
   
