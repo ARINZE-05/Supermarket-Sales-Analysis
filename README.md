@@ -82,7 +82,8 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   - Mandalay follows closely to Yangon and being the lowest selling city with $106,198 selling 1,820 unit of products. This indicate consistent customer satisfaction and huge buying 
   strength.
   ### Customer satisfaction
-  -    
+  This analysis indicates how customer interest and satisfaction affect the general sales performance.
+      
   
   
   
