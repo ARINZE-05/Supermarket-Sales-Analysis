@@ -84,6 +84,8 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   ### Customer satisfaction
   This analysis indicates how customer interest and satisfaction affect the general sales performance.
   ![](doc5.PNG)
+  - Food and Beverages is the highest selling product at $53,471. Showing huge interest in essentaial product. With Sports and Travel follllowing closely to Food and Beverages. Health 
+  and beauty is the least selling product at $46,851.  
       
   
   
