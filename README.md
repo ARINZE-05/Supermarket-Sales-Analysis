@@ -92,12 +92,30 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
 
   ## Recommendations
   ### Customer Insight
-  There is need for optimize marketing strategy to boost customer experience. More attention should be paid Female customers. What they what and how to make them readily available 
+  There is need for optimize marketing strategy to boost customer experience. More attention should be paid to female customers. What they what and how to make them readily available 
   should be paramount. Giving incentives like loyalty awards, free gifts and promotions will enhance customer engagements, satisfaction and increase operational growth.
   
   ### Sales
-  Constant review and analysis of sales performance should be conducted to identify operational deficiency and areas that needs improvement. January sold the most within the 3 months 
-  period, showing sales growth and consistent revenue generation. Market promotions, discounted prices and other price control measures should be implemented.
+  - Constant review and analysis of sales performance should be conducted to identify operational deficiency and areas that needs improvement. January sold the most within the 3 months 
+  period, showing sales growth and consistent revenue generation. Market promotions, discounted prices and other price control measures should be implemented so as to affect other 
+  months where there was low outcome of sales.
+  - Market location should also be considered. Some location may not be favorable in terms of customer acquisition or retention. City with large customer base or city that generated 
+  more revenue should be prioritized. It clearly shows potential growth and consistent demand of items in those locations.
+
+  ### Customer Insight
+  - There is a reason some commodities sold the highest. This means there should be constant supply of those items, focussing on those customers that wants them.  This will drive 
+  general sales performance to a new height. It is essential to optimize a marketing strategy looking into certain products and their performances whether to retain or remove obsolete 
+  ones.
+  - To retain customer satisfaction, they should be quality delivery service, availability of products when needed. Leveraging on this will boost your customer base and maximize 
+  profitability.
+
+  ## Conclusion
+  With the supermarket facing profitability challenge. It is very essential to seek ways of increasing its revenue by taking into consideration all the sales metrics highlighted above 
+  and leverage on them. Pay attention to the high selling items and cities, optimise marketing strategies and pricing. Given prominence to these will definitely improve operational 
+  performance, keeping you afloat in the business.  
+  
+
+
 
   
      
