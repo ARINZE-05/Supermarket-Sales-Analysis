@@ -68,7 +68,7 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   - Member customers and Normal customers made the highest purchased of product like Food and Beverages. We also discovered that Normal customers are more in number than Member customer.
     
   ![](doc4.PNG)
-  ### Total Sales
+  ### Sales
   This seeks to provide detailed analysis on sales within the 3 months period and across various cities.
   ![](https://github.com/ARINZE-05/Supermarket-Sales-Analysis/blob/main/Total%20Sales.PNG)
   ### Insight
@@ -84,9 +84,23 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   ### Customer satisfaction
   This analysis indicates how customer interest and satisfaction affect the general sales performance.
   ![](doc5.PNG)
-  - Food and Beverages is the highest selling product at $53,471. Showing huge interest in essentaial product. With Sports and Travel follllowing closely to Food and Beverages. Health 
-  and beauty is the least selling product at $46,851. Which suggests less patronage from customers and lack of interest. 
-      
+  ### Insight
+  - Food and Beverages is the highest selling product at $56,145. Having sold $19,571 in January, $20,000 in Ferbruary and $16,574 in March. Showing huge interest in essentaial 
+  products, loyalty and probably referrals. With Sports and Travel follllowing closely to Food and Beverages.
+  - Health and beauty is the least selling product at $49,194. Which suggests less patronage from customers and lack of interest. The low output may require a need for customer 
+  experience so as to increase customer satisfaction.
+
+  ## Recommendations
+  ### Customer Insight
+  There is need for optimize marketing strategy to boost customer experience. More attention should be paid Female customers. What they what and how to make them readily available 
+  should be paramount. Giving incentives like loyalty awards, free gifts and promotions will enhance customer engagements, satisfaction and increase operational growth.
+  
+  ### Sales
+  Constant review and analysis of sales performance should be conducted to identify operational deficiency and areas that needs improvement. January sold the most within the 3 months 
+  period, showing sales growth and consistent revenue generation. Market promotions, discounted prices and other price control measures should be implemented.
+
+  
+     
   
   
   
