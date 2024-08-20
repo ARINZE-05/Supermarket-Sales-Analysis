@@ -1,7 +1,7 @@
 # Supermarket-Sales-Analysis
 
 ## Introduction
-Every business owner wants their business to thrive. And every business is as good as the profit it makes which most times defines the success of the business.  So, in the business world, every profitable business will always stay ahead despite the challenges or stiff competition from others. This analysis delves into the financial capability of a supermarket general sales performances, despite making sales, they don't generate profits. Emphasis on its profitability with the aim of understanding challenges faced by this organization and provide relative solutions to it; considering some metrics like customer type and satisfaction, business locations, total sales, quantity and product category.
+Every business owner wants their business to thrive. And every business is as good as the profit it makes which most times defines its success of the.  So, in the real world, every profitable business will always stay afloat despite the challenges or stiff competition from others. This analysis delves into the financial capability of a supermarket general sales performances. Despite making sales, they don't generate profits. Emphasis on its profitability with the aim of understanding challenges faced by this organization, providing relative solution to it.
 
 ## Data Description
 This dataset was provided by The Data Initiative.It is a supermarket sales data that gives a general overview of the company's sales performance.The dataset includes the following:
@@ -37,7 +37,7 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   ## Methodology
   
   ### Data Collection
-  This dataset used for this analysis was provided by The Data Initiative. This is a learning organization that helps educate and train data 
+  This dataset used for this analysis was provided by The Data Initiative. It is a learning organization that helps educate and train data 
   analysts. This analysis is for educational and learning purpose.
 
   ### Data Manipulation
@@ -61,11 +61,12 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   This research tries to understand customer purchasing pattern and demographics. It ehance product marketing and distribution.
   ![](doc1.PNG)
   ### Insight
-  - Mode of payment was highly considered as it influence customer purchasing ability. Ewallet was the most used mode of payment and Credit card was the least used. Showing how digital 
-    mode of payment is getting popular among people.  This may interest you to know that to some customers, the use of credit card for shopping isn’t their strongest suit.
+  - Mode of payment was highly considered as it influenced customer purchasing ability. Ewallet was the most used mode of payment and Credit card was the least used. Showing how 
+    digital mode of payment is getting popular among people.  This may interest you to know that for some customers, the use of credit card for shopping isn’t their strongest suit.
   - Gender purchasing affected their sales. Female customers purchased more items than the male customers. Food and Beverages was the highest selling product as it is an essential. The 
     female customers being the biggest patronizer of this commodity and the male customers settled for Electronic and accessories.
-  - Member customers and Normal customers made the highest purchased of product like Food and Beverages. We also discovered that Normal customers are more in number than Member customer.
+  - Member customers and Normal customers made the highest purchased of product like Food and Beverages. We also discovered that Normal customers are more in number than Member 
+    customer.
     
   ![](doc4.PNG)
   ### Sales
@@ -73,14 +74,15 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   ![](https://github.com/ARINZE-05/Supermarket-Sales-Analysis/blob/main/Total%20Sales.PNG)
   ### Insight
   - January was a successful month in terms of sales. Sales were at its peak with $110,754. Then it started dwindling in February selling a total of $92,590 and consistently rising in 
- the month of March selling at $104,243. They had a Gross income of $5,538, $4,629 and $5,212 respectively. Despite huge sales made, their gross income is slightly the same across 
- different months.
+  the month of March selling at $104,243. They had a Gross income of $5,538, $4,629 and $5,212 respectively. Despite huge sales made, their gross income is slightly the same across 
+  different months.
   - Naypyitaw is the city with the most sales at $110,569 selling 1,831 unit of products. This implies that they prioritised selling high-priced products than any others and set good 
   pricing control measures. 
   - Yangon is the second city with the most sales at $106,200 selling 1,859 unit of products. This shows high sales volume with adequate customer engagement. Having sold more unit of 
   products than Naypyitaw yet couldn't make more sales clearly shows they sold more low-priced products.
   - Mandalay follows closely to Yangon and being the lowest selling city with $106,198 selling 1,820 unit of products. This indicate consistent customer satisfaction and huge buying 
   strength.
+
   ### Customer satisfaction
   This analysis indicates how customer interest and satisfaction affect the general sales performance.
   ![](doc5.PNG)
@@ -92,7 +94,7 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
 
   ## Recommendations
   ### Customer Insight
-  There is need for optimize marketing strategy to boost customer experience. More attention should be paid to female customers. What they what and how to make them readily available 
+  There is need for optimized marketing strategy to boost customer experience. More attention should be paid to female customers. What they what and how to make them readily available 
   should be paramount. Giving incentives like loyalty awards, free gifts and promotions will enhance customer engagements, satisfaction and increase operational growth.
   
   ### Sales
@@ -103,14 +105,14 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   more revenue should be prioritized. It clearly shows potential growth and consistent demand of items in those locations.
 
   ### Customer Insight
-  - There is a reason some commodities sold the highest. This means there should be constant supply of those items, focussing on those customers that wants them.  This will drive 
-  general sales performance to a new height. It is essential to optimize a marketing strategy looking into certain products and their performances whether to retain or remove obsolete 
-  ones.
+  - There is a reason some commodities sold more than the others. This means there should be constant supply of those items, focussing on those customers that wants them.  This will 
+  drive general sales performance to a new height. It is essential to optimize a marketing strategy looking into certain products and their performances whether to retain or remove 
+  obsolete ones.
   - To retain customer satisfaction, they should be quality delivery service, availability of products when needed. Leveraging on this will boost your customer base and maximize 
   profitability.
 
   ## Conclusion
-  With the supermarket facing profitability challenge. It is very essential to seek ways of increasing its revenue by taking into consideration all the sales metrics highlighted above 
+  With the supermarket facing profitability challenge. It is very essential to seek ways of increasing revenue by taking into consideration all the sales metrics highlighted above 
   and leverage on them. Pay attention to the high selling items and cities, optimise marketing strategies and pricing. Given prominence to these will definitely improve operational 
   performance, keeping you afloat in the business.  
   
