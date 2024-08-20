@@ -110,6 +110,7 @@ This dataset was provided by The Data Initiative.It is a supermarket sales data 
   obsolete ones.
   - To retain customer satisfaction, they should be quality delivery service, availability of products when needed. Leveraging on this will boost your customer base and maximize 
   profitability.
+  - Promote the use of Ewallet for convenient purposes and to speed up transaction processes.
 
   ## Conclusion
   With the supermarket facing profitability challenge. It is very essential to seek ways of increasing revenue by taking into consideration all the sales metrics highlighted above 
