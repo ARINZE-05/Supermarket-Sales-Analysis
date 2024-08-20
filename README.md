@@ -2,6 +2,7 @@
 
 ## Introduction
 Every business owner wants their business to thrive. And every business is as good as the profit it makes which most times defines its success of the.  So, in the real world, every profitable business will always stay afloat despite the challenges or stiff competition from others. This analysis delves into the financial capability of a supermarket general sales performances. Despite making sales, they don't generate profits. Emphasis on its profitability with the aim of understanding challenges faced by this organization, providing relative solution to it.
+We seek to provide valuable insights tha will drive business growth and profitability, optimize inventory management and contribute to the supermarket success in the competitive industry.
 
 ## Data Description
 This dataset was provided by The Data Initiative.It is a supermarket sales data that gives a general overview of the company's sales performance.The dataset includes the following:
